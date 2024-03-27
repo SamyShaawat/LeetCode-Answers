@@ -13,5 +13,3 @@ class Solution:
             if countS[key] != countT.get(key,0):
                 return False
         return True 
-                
-        
