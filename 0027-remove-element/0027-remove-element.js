@@ -1,5 +1,13 @@
-class Solution:
-    def removeElement(self, nums: List[int], val: int) -> int:
-        while val in nums:
-            nums.remove(val)
-        return len(nums)
+/**
+ * @param {number[]} nums
+ * @param {number} val
+ * @return {number}
+ */
+var removeElement = function(nums, val) {
+    while (nums.includes(val)) {
+        index = nums.indexOf(val)
+        nums.splice(index, 1);
+    }
+    k =  nums.length
+    return k;
+};
