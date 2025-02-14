@@ -18,7 +18,8 @@ class ProductOfNumbers:
         if len(self.products) < k: 
             return 0
         elif len(self.products) == k: 
-            return self.products[-1]
+            # return self.products[-1]
+            return self.current_product
         else: 
             return int(self.products[-1]/self.products[-1-k])
         
