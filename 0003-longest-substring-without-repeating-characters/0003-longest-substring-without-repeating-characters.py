@@ -1,9 +1,5 @@
-class Solution(object):
-    def lengthOfLongestSubstring(self, s):
-        """
-        :type s: str
-        :rtype: int
-        """
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
         start = maxLength = 0
         usedChar = {}
         for i in range(len(s)):
@@ -13,3 +9,4 @@ class Solution(object):
                 maxLength = max(maxLength, i - start + 1)
             usedChar[s[i]] = i
         return maxLength
+        
