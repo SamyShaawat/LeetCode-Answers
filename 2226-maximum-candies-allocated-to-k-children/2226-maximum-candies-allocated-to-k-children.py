@@ -6,7 +6,7 @@ class Solution:
         best = 0
         while l <= r:
             mid = (l + r) // 2
-            childern_count = sum(pile//mid for pile in candies) # total children that can rec eive 'mid' candies
+            childern_count = sum(pile//mid for pile in candies) # total children that can receive 'mid' candies
             print(childern_count)
             if childern_count >= k:
                 best = mid 
