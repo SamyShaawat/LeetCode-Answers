@@ -5,11 +5,11 @@ class Solution:
         """
         n = len(nums)
         k %= n  # In case k is greater than n
-        for _ in range(k):
-            # Rotate array by one step
-            last = nums[-1]
-            for i in range(n-1, 0, -1):
-                nums[i] = nums[i-1]
-            nums[0] = last
+        rotated = [0] * n
+        for i in range(n):
+            # Place each element in its new position
+            rotated[(i + k) % n] = nums[i]
+        # Copy the rotated array back to nums
+        nums[:] = rotated
         
         
