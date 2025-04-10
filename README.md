@@ -12,3 +12,19 @@ For a comprehensive roadmap and solutions, including video explanations for each
 - [NeetCode YouTube Channel](https://www.youtube.com/c/NeetCode): Watch video tutorials and explanations for various LeetCode problems and problem solving.
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3243-count-the-number-of-powerful-integers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3243-count-the-number-of-powerful-integers) |
+## String
+|  |
+| ------- |
+| [3243-count-the-number-of-powerful-integers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3243-count-the-number-of-powerful-integers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3243-count-the-number-of-powerful-integers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3243-count-the-number-of-powerful-integers) |
+<!---LeetCode Topics End-->
