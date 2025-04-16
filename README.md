@@ -27,4 +27,12 @@ For a comprehensive roadmap and solutions, including video explanations for each
 |  |
 | ------- |
 | [3243-count-the-number-of-powerful-integers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3243-count-the-number-of-powerful-integers) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
