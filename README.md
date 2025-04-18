@@ -22,6 +22,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0038-count-and-say) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Dynamic Programming
 |  |
