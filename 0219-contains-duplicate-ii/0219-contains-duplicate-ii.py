@@ -8,5 +8,3 @@ class Solution:
             else:
                 found[value] = index
         return False
-      
-            
