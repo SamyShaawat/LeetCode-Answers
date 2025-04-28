@@ -26,6 +26,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0038-count-and-say) |
+| [1297-maximum-number-of-balloons](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1297-maximum-number-of-balloons) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Dynamic Programming
 |  |
@@ -52,6 +53,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0001-two-sum](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0001-two-sum) |
 | [0797-rabbits-in-forest](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0797-rabbits-in-forest) |
 | [0817-design-hashmap](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0817-design-hashmap) |
+| [1297-maximum-number-of-balloons](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1297-maximum-number-of-balloons) |
 | [1500-count-largest-group](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1500-count-largest-group) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2915-count-of-interesting-subarrays) |
@@ -112,4 +114,8 @@ For a comprehensive roadmap and solutions, including video explanations for each
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0817-design-hashmap) |
+## Counting
+|  |
+| ------- |
+| [1297-maximum-number-of-balloons](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1297-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
