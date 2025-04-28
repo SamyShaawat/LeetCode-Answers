@@ -40,6 +40,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0219-contains-duplicate-ii) |
 | [0797-rabbits-in-forest](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0797-rabbits-in-forest) |
 | [0817-design-hashmap](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0817-design-hashmap) |
 | [1635-number-of-good-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1635-number-of-good-pairs) |
@@ -56,6 +57,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | ------- |
 | [0001-two-sum](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0383-ransom-note) |
 | [0797-rabbits-in-forest](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0797-rabbits-in-forest) |
 | [0817-design-hashmap](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0817-design-hashmap) |
@@ -98,6 +100,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0219-contains-duplicate-ii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2856-count-complete-subarrays-in-an-array) |
