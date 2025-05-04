@@ -55,6 +55,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2249-count-the-hidden-sequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2358-number-of-ways-to-split-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -105,6 +106,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2249-count-the-hidden-sequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2249-count-the-hidden-sequences) |
+| [2358-number-of-ways-to-split-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2915-count-of-interesting-subarrays) |
