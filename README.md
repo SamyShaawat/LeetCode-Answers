@@ -47,6 +47,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0797-rabbits-in-forest](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0797-rabbits-in-forest) |
 | [0817-design-hashmap](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0817-design-hashmap) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1635-number-of-good-pairs) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -68,6 +69,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0383-ransom-note](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0383-ransom-note) |
 | [0797-rabbits-in-forest](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0797-rabbits-in-forest) |
 | [0817-design-hashmap](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0817-design-hashmap) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1297-maximum-number-of-balloons) |
 | [1500-count-largest-group](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1635-number-of-good-pairs) |
@@ -143,6 +145,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0383-ransom-note) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
