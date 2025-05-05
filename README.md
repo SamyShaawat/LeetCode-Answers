@@ -176,6 +176,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0201-bitwise-and-of-numbers-range) |
+| [2659-number-of-even-and-odd-bits](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2659-number-of-even-and-odd-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
