@@ -32,6 +32,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0205-isomorphic-strings](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0383-ransom-note) |
 | [0535-encode-and-decode-tinyurl](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0535-encode-and-decode-tinyurl) |
+| [0778-reorganize-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0778-reorganize-string) |
 | [0868-push-dominoes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0868-push-dominoes) |
 | [1297-maximum-number-of-balloons](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1297-maximum-number-of-balloons) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -76,6 +77,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0219-contains-duplicate-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0383-ransom-note) |
 | [0535-encode-and-decode-tinyurl](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0535-encode-and-decode-tinyurl) |
+| [0778-reorganize-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0797-rabbits-in-forest) |
 | [0817-design-hashmap](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0817-design-hashmap) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -99,11 +101,13 @@ For a comprehensive roadmap and solutions, including video explanations for each
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0049-group-anagrams) |
+| [0778-reorganize-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0778-reorganize-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Greedy
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -160,6 +164,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0383-ransom-note) |
+| [0778-reorganize-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0778-reorganize-string) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1635-number-of-good-pairs) |
@@ -167,4 +172,8 @@ For a comprehensive roadmap and solutions, including video explanations for each
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0201-bitwise-and-of-numbers-range) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
