@@ -68,6 +68,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0075-sort-colors](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0219-contains-duplicate-ii) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0797-rabbits-in-forest](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0797-rabbits-in-forest) |
 | [0817-design-hashmap](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0817-design-hashmap) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -105,6 +106,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0219-contains-duplicate-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0383-ransom-note) |
 | [0535-encode-and-decode-tinyurl](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0535-encode-and-decode-tinyurl) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0778-reorganize-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0797-rabbits-in-forest) |
 | [0817-design-hashmap](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0817-design-hashmap) |
@@ -142,6 +144,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 ## Greedy
 |  |
 | ------- |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0778-reorganize-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -216,6 +219,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0778-reorganize-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0778-reorganize-string) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
