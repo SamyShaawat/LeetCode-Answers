@@ -66,6 +66,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0001-two-sum](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0219-contains-duplicate-ii) |
 | [0797-rabbits-in-forest](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0797-rabbits-in-forest) |
 | [0817-design-hashmap](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0817-design-hashmap) |
@@ -99,6 +100,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | ------- |
 | [0001-two-sum](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0383-ransom-note) |
@@ -240,4 +242,8 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
