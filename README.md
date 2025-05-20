@@ -95,6 +95,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3321-type-of-triangle](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3321-type-of-triangle) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3639-zero-array-transformation-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
@@ -160,6 +161,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2915-count-of-interesting-subarrays) |
+| [3639-zero-array-transformation-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3639-zero-array-transformation-i) |
 ## Combinatorics
 |  |
 | ------- |
