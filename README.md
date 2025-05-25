@@ -42,6 +42,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [1297-maximum-number-of-balloons](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1297-maximum-number-of-balloons) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -87,6 +88,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2048-build-array-from-permutation](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2215-finding-3-digit-even-numbers) |
+| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2358-number-of-ways-to-split-array) |
@@ -130,6 +132,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1635-number-of-good-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1635-number-of-good-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2215-finding-3-digit-even-numbers) |
+| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2915-count-of-interesting-subarrays) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -168,6 +171,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0797-rabbits-in-forest](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -232,6 +236,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1635-number-of-good-pairs) |
+| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Bit Manipulation
