@@ -24,6 +24,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [1635-number-of-good-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1635-number-of-good-pairs) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3201-distribute-candies-among-children-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3201-distribute-candies-among-children-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -195,6 +196,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3201-distribute-candies-among-children-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3201-distribute-candies-among-children-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3637-count-number-of-balanced-permutations) |
 ## Number Theory
 |  |
@@ -263,6 +265,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2215-finding-3-digit-even-numbers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3201-distribute-candies-among-children-ii) |
 ## Simulation
 |  |
 | ------- |
