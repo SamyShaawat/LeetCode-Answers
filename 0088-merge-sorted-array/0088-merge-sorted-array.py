@@ -3,23 +3,29 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        # last pointer in the end of nums1 
-        # m pointer points on  the last real number in nums1
-        # n pointer points on  the last real number in nums2
-        # get the last index in nums1 
-        last = m + n - 1
-        # merge in revese order
-        while m > 0 and n > 0:
-            if nums1[m-1] > nums2[n-1]:
-                nums1[last] = nums1[m-1]
-                m -= 1
+        # Create a temporary list to hold merged elements
+        merged = []
+        i, j = 0, 0
+
+        # Traverse through nums1 and nums2 and merge their elements
+        while i < m and j < n:
+            if nums1[i] < nums2[j]:
+                merged.append(nums1[i])
+                i += 1
             else:
-                nums1[last] = nums2[n-1]
-                n-= 1
-            last -= 1
-        while n > 0:
-            nums1[last] = nums2[n-1]
-            n, last = n-1, last-1
+                merged.append(nums2[j])
+                j += 1
 
+        # Append any leftover elements in nums1
+        while i < m:
+            merged.append(nums1[i])
+            i += 1
 
-        
+        # Append any leftover elements in nums2
+        while j < n:
+            merged.append(nums2[j])
+            j += 1
+
+        # Copy elements back to nums1
+        for k in range(m + n):
+            nums1[k] = merged[k]
