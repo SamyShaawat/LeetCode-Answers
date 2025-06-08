@@ -79,6 +79,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0075-sort-colors) |
@@ -168,6 +169,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0004-median-of-two-sorted-arrays) |
 | [0808-number-of-matching-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0808-number-of-matching-subsequences) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -363,4 +365,8 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | ------- |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
