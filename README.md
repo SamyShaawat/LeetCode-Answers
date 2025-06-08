@@ -327,6 +327,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0386-lexicographical-numbers) |
 | [0808-number-of-matching-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0808-number-of-matching-subsequences) |
 ## Tree
 |  |
@@ -345,6 +346,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0386-lexicographical-numbers) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
