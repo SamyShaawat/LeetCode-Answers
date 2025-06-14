@@ -23,6 +23,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [1500-count-largest-group](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1635-number-of-good-pairs) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3201-distribute-candies-among-children-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -205,6 +206,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
