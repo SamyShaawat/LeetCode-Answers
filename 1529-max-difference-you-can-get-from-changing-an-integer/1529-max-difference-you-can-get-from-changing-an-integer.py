@@ -1,18 +1,14 @@
 class Solution:
     def maxDiff(self, num: int) -> int:
         s = str(num)
-        
-        # Generate max number: replace first digit that is not '9' with '9'
+
         for d in s:
             if d != '9':
                 max_num = int(s.replace(d, '9'))
                 break
         else:
-            max_num = num  # All digits are '9'
+            max_num = num  
         
-        # Generate min number:
-        # Case 1: if first digit != '1', replace it with '1'
-        # Case 2: otherwise, find first digit != '0' and != '1', and replace it with '0'
         if s[0] != '1':
             min_num = int(s.replace(s[0], '1'))
         else:
@@ -21,6 +17,6 @@ class Solution:
                     min_num = int(s.replace(d, '0'))
                     break
             else:
-                min_num = num  # No suitable digit found
+                min_num = num 
         
         return max_num - min_num
