@@ -112,6 +112,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2249-count-the-hidden-sequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2358-number-of-ways-to-split-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2685-first-completely-painted-row-or-column) |
@@ -195,6 +196,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0808-number-of-matching-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0808-number-of-matching-subsequences) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2215-finding-3-digit-even-numbers) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -211,6 +213,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
