@@ -51,6 +51,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -331,6 +332,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2048-build-array-from-permutation) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Graph
 |  |
 | ------- |
