@@ -53,6 +53,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -77,6 +78,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -226,6 +228,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -387,6 +390,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Depth-First Search
 |  |
 | ------- |
