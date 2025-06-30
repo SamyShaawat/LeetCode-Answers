@@ -101,6 +101,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0135-candy](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0135-candy) |
 | [0219-contains-duplicate-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0219-contains-duplicate-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0407-trapping-rain-water-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0594-longest-harmonious-subsequence) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0797-rabbits-in-forest](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0808-number-of-matching-subsequences) |
@@ -159,6 +160,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0219-contains-duplicate-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0383-ransom-note) |
 | [0535-encode-and-decode-tinyurl](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0535-encode-and-decode-tinyurl) |
+| [0594-longest-harmonious-subsequence](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0594-longest-harmonious-subsequence) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0778-reorganize-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0797-rabbits-in-forest) |
@@ -211,6 +213,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0049-group-anagrams](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0088-merge-sorted-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0808-number-of-matching-subsequences) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -276,6 +279,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0594-longest-harmonious-subsequence) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -309,6 +313,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0778-reorganize-string) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1297-maximum-number-of-balloons) |
