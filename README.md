@@ -83,6 +83,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -441,6 +442,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Depth-First Search
 |  |
