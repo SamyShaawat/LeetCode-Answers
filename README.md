@@ -65,6 +65,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3194-find-words-containing-character](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3396-valid-word](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3617-find-the-original-typed-string-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3618-find-the-original-typed-string-ii) |
