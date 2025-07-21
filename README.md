@@ -51,6 +51,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0868-push-dominoes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1297-maximum-number-of-balloons](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1297-maximum-number-of-balloons) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1632-number-of-good-ways-to-split-a-string) |
