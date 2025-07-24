@@ -151,6 +151,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2358-number-of-ways-to-split-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -385,6 +386,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0201-bitwise-and-of-numbers-range](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0201-bitwise-and-of-numbers-range) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2659-number-of-even-and-odd-bits](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2659-number-of-even-and-odd-bits) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -459,6 +461,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 ## Tree
 |  |
 | ------- |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -477,6 +480,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
