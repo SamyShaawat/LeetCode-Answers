@@ -180,6 +180,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
@@ -222,6 +223,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -298,6 +300,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3647-zero-array-transformation-iii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Prefix Sum
 |  |
 | ------- |
