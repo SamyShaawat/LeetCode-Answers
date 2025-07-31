@@ -86,6 +86,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0806-domino-and-tromino-tiling](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0806-domino-and-tromino-tiling) |
 | [0808-number-of-matching-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0808-number-of-matching-subsequences) |
 | [0868-push-dominoes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0868-push-dominoes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -122,6 +123,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0797-rabbits-in-forest](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0808-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0817-design-hashmap) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -395,6 +397,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
