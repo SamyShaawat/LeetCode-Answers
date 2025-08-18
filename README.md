@@ -21,6 +21,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0231-power-of-two](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0867-new-21-game) |
@@ -134,6 +135,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0407-trapping-rain-water-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0407-trapping-rain-water-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0594-longest-harmonious-subsequence) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0679-24-game](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0808-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0817-design-hashmap) |
@@ -567,6 +569,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Recursion
