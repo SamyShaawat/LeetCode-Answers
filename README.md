@@ -202,6 +202,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3321-type-of-triangle) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3415-check-if-grid-satisfies-conditions) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -509,6 +510,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [1628-count-submatrices-with-all-ones](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1628-count-submatrices-with-all-ones) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2685-first-completely-painted-row-or-column) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3415-check-if-grid-satisfies-conditions) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
