@@ -137,6 +137,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0135-candy](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0135-candy) |
 | [0219-contains-duplicate-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0219-contains-duplicate-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0594-longest-harmonious-subsequence) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0679-24-game](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0679-24-game) |
@@ -492,6 +493,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2479-meeting-rooms-iii) |
@@ -510,6 +512,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1628-count-submatrices-with-all-ones) |
