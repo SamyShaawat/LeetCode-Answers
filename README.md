@@ -68,6 +68,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0868-push-dominoes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0868-push-dominoes) |
 | [1006-vowel-spellchecker](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -271,6 +272,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0940-fruit-into-baskets](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1006-vowel-spellchecker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1297-maximum-number-of-balloons) |
 | [1500-count-largest-group](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1510-find-lucky-integer-in-an-array) |
