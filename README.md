@@ -61,6 +61,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | ------- |
 | [0038-count-and-say](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0049-group-anagrams) |
+| [0165-compare-version-numbers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0383-ransom-note) |
 | [0535-encode-and-decode-tinyurl](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0535-encode-and-decode-tinyurl) |
@@ -321,6 +322,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | ------- |
 | [0075-sort-colors](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0088-merge-sorted-array) |
+| [0165-compare-version-numbers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0165-compare-version-numbers) |
 | [0868-push-dominoes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2320-find-all-k-distant-indices-in-an-array) |
