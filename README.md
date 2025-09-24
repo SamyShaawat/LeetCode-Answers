@@ -18,6 +18,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0342-power-of-four) |
@@ -62,6 +63,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0038-count-and-say](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0049-group-anagrams) |
 | [0165-compare-version-numbers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0383-ransom-note) |
 | [0535-encode-and-decode-tinyurl](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0535-encode-and-decode-tinyurl) |
@@ -268,6 +270,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0049-group-anagrams](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0128-longest-consecutive-sequence) |
+| [0166-fraction-to-recurring-decimal](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0383-ransom-note) |
