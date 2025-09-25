@@ -113,6 +113,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0120-triangle) |
 | [0806-domino-and-tromino-tiling](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0806-domino-and-tromino-tiling) |
 | [0808-number-of-matching-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0808-number-of-matching-subsequences) |
 | [0826-soup-servings](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0826-soup-servings) |
@@ -156,6 +157,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0075-sort-colors](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0135-candy) |
 | [0219-contains-duplicate-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0219-contains-duplicate-ii) |
