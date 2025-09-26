@@ -164,6 +164,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0407-trapping-rain-water-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0611-valid-triangle-number) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0679-24-game](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0797-rabbits-in-forest) |
@@ -328,6 +329,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0075-sort-colors](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0165-compare-version-numbers) |
+| [0611-valid-triangle-number](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0611-valid-triangle-number) |
 | [0868-push-dominoes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -338,6 +340,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0004-median-of-two-sorted-arrays) |
+| [0611-valid-triangle-number](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0611-valid-triangle-number) |
 | [0808-number-of-matching-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0808-number-of-matching-subsequences) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -358,6 +361,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0075-sort-colors](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0088-merge-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0611-valid-triangle-number) |
 | [0778-reorganize-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0808-number-of-matching-subsequences) |
 | [0900-reordered-power-of-2](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0900-reordered-power-of-2) |
@@ -385,6 +389,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 |  |
 | ------- |
 | [0135-candy](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0135-candy) |
+| [0611-valid-triangle-number](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0611-valid-triangle-number) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0778-reorganize-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0797-rabbits-in-forest) |
