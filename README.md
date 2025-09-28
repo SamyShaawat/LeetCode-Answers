@@ -28,6 +28,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0830-largest-triangle-area](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -176,6 +177,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0940-fruit-into-baskets](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0945-snakes-and-ladders) |
 | [1006-vowel-spellchecker](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1293-three-consecutive-odds) |
@@ -367,6 +369,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0778-reorganize-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0808-number-of-matching-subsequences) |
 | [0900-reordered-power-of-2](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1018-largest-perimeter-triangle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -395,6 +398,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0659-split-array-into-consecutive-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0778-reorganize-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0797-rabbits-in-forest) |
+| [1018-largest-perimeter-triangle](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
