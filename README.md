@@ -277,6 +277,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3791-fruits-into-baskets-iii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3827-implement-router) |
 ## Hash Table
@@ -463,6 +464,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3647-zero-array-transformation-iii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Combinatorics
 |  |
 | ------- |
@@ -618,6 +620,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3336-water-bottles-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3790-fruits-into-baskets-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Graph
 |  |
 | ------- |
