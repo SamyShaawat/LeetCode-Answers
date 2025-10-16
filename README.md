@@ -43,6 +43,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2324-find-triangular-sum-of-an-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3201-distribute-candies-among-children-ii) |
@@ -242,6 +243,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2529-range-product-queries-of-powers) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2689-rearranging-fruits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -335,6 +337,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2429-design-a-food-rating-system](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2689-rearranging-fruits) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -451,6 +454,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
