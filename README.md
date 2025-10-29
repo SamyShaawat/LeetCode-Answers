@@ -62,6 +62,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3637-count-number-of-balanced-permutations) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -628,6 +629,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Heap (Priority Queue)
