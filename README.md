@@ -321,6 +321,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3797-design-spreadsheet](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
 | ------- |
@@ -389,6 +390,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
@@ -674,6 +676,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3647-zero-array-transformation-iii) |
 | [3678-design-task-manager](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3863-power-grid-maintenance) |
 ## Enumeration
 |  |
 | ------- |
@@ -720,6 +723,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3863-power-grid-maintenance](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
 | ------- |
@@ -756,6 +760,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0128-longest-consecutive-sequence](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0128-longest-consecutive-sequence) |
 | [0794-swim-in-rising-water](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0794-swim-in-rising-water) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [3863-power-grid-maintenance](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3863-power-grid-maintenance) |
 ## Trie
 |  |
 | ------- |
@@ -794,6 +799,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -805,6 +811,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3863-power-grid-maintenance) |
 ## Stack
 |  |
 | ------- |
@@ -855,6 +862,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3790-fruits-into-baskets-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3863-power-grid-maintenance) |
 ## Probability and Statistics
 |  |
 | ------- |
