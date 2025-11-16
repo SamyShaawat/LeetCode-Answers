@@ -37,6 +37,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [1500-count-largest-group](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1635-number-of-good-pairs) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -95,6 +96,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1818-maximum-score-from-removing-substrings) |
