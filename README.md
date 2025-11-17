@@ -227,6 +227,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1612-avoid-flood-in-the-city](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
