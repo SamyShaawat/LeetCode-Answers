@@ -221,6 +221,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0945-snakes-and-ladders](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0945-snakes-and-ladders) |
 | [1006-vowel-spellchecker](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -683,6 +684,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0231-power-of-two](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1930-unique-length-3-palindromic-subsequences) |
