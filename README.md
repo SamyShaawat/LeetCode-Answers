@@ -168,6 +168,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -278,6 +279,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2429-design-a-food-rating-system](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2479-meeting-rooms-iii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -791,6 +793,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [1628-count-submatrices-with-all-ones](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1628-count-submatrices-with-all-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2625-increment-submatrices-by-one) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2685-first-completely-painted-row-or-column) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3415-check-if-grid-satisfies-conditions) |
