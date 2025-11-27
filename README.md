@@ -310,6 +310,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3321-type-of-triangle) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -406,6 +407,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2915-count-of-interesting-subarrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2915-count-of-interesting-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -568,6 +570,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2625-increment-submatrices-by-one](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2915-count-of-interesting-subarrays) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3618-find-the-original-typed-string-ii) |
