@@ -61,6 +61,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3279-alice-and-bob-playing-flower-game](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3336-water-bottles-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -319,6 +320,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3415-check-if-grid-satisfies-conditions) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -588,6 +590,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2915-count-of-interesting-subarrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2915-count-of-interesting-subarrays) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
