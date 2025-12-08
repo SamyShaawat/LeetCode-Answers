@@ -42,6 +42,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [1636-number-of-substrings-with-only-1s](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1925-count-square-sum-triples](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -762,6 +763,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0900-reordered-power-of-2) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1925-count-square-sum-triples](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1925-count-square-sum-triples) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2174-next-greater-numerically-balanced-number) |
