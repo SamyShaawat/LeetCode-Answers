@@ -332,6 +332,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3531-count-covered-buildings](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -430,6 +431,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3531-count-covered-buildings](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -527,6 +529,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3321-type-of-triangle](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3531-count-covered-buildings](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3531-count-covered-buildings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
