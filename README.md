@@ -526,6 +526,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2092-find-all-people-with-secret](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -836,6 +837,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | ------- |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2092-find-all-people-with-secret](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2092-find-all-people-with-secret) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -878,6 +880,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0128-longest-consecutive-sequence](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0128-longest-consecutive-sequence) |
 | [0794-swim-in-rising-water](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0794-swim-in-rising-water) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [2092-find-all-people-with-secret](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3863-power-grid-maintenance) |
 ## Trie
 |  |
@@ -916,6 +919,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0794-swim-in-rising-water](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0794-swim-in-rising-water) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2092-find-all-people-with-secret) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -932,6 +936,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0945-snakes-and-ladders](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2092-find-all-people-with-secret) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3863-power-grid-maintenance](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3863-power-grid-maintenance) |
