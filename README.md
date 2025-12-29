@@ -96,6 +96,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0383-ransom-note](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0383-ransom-note) |
 | [0474-ones-and-zeroes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0474-ones-and-zeroes) |
 | [0535-encode-and-decode-tinyurl](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0535-encode-and-decode-tinyurl) |
+| [0756-pyramid-transition-matrix](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0756-pyramid-transition-matrix) |
 | [0778-reorganize-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0808-number-of-matching-subsequences) |
 | [0868-push-dominoes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0868-push-dominoes) |
@@ -414,6 +415,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0535-encode-and-decode-tinyurl](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0535-encode-and-decode-tinyurl) |
 | [0594-longest-harmonious-subsequence](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0594-longest-harmonious-subsequence) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0756-pyramid-transition-matrix](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0756-pyramid-transition-matrix) |
 | [0778-reorganize-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0808-number-of-matching-subsequences) |
@@ -770,6 +772,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0201-bitwise-and-of-numbers-range](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0342-power-of-four) |
+| [0756-pyramid-transition-matrix](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -989,6 +992,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | ------- |
 | [0037-sudoku-solver](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0756-pyramid-transition-matrix) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2174-next-greater-numerically-balanced-number) |
