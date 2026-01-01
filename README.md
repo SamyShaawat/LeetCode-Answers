@@ -18,6 +18,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0326-power-of-three) |
@@ -220,6 +221,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0036-valid-sudoku](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0088-merge-sorted-array) |
