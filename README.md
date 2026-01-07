@@ -944,6 +944,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -969,6 +970,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0417-pacific-atlantic-water-flow](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0794-swim-in-rising-water) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -1082,4 +1084,5 @@ For a comprehensive roadmap and solutions, including video explanations for each
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
