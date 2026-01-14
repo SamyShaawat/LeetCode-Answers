@@ -371,6 +371,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3433-count-mentions-per-user](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3454-separate-squares-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -545,6 +546,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3454-separate-squares-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -1048,6 +1050,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 ## Segment Tree
 |  |
 | ------- |
+| [3454-separate-squares-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3454-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3791-fruits-into-baskets-iii) |
@@ -1104,4 +1107,8 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
