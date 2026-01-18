@@ -294,6 +294,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [1813-maximum-erasure-value](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1895-largest-magic-square](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1917-maximum-average-pass-ratio) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1975-maximum-matrix-sum) |
@@ -666,6 +667,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1590-make-sum-divisible-by-p) |
+| [1895-largest-magic-square](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -923,6 +925,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1628-count-submatrices-with-all-ones) |
+| [1895-largest-magic-square](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2244-number-of-laser-beams-in-a-bank) |
