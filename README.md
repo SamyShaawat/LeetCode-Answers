@@ -369,6 +369,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3321-type-of-triangle](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3321-type-of-triangle) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -826,6 +827,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3676-smallest-number-with-all-set-bits) |
