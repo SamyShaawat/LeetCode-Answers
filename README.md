@@ -386,6 +386,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -497,6 +498,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3583-count-special-triplets) |
@@ -766,6 +768,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Design
 |  |
 | ------- |
@@ -857,6 +860,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2479-meeting-rooms-iii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -906,6 +910,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3336-water-bottles-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1090,6 +1095,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2023-design-movie-rental-system](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2429-design-a-food-rating-system) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3678-design-task-manager](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3791-fruits-into-baskets-iii) |
@@ -1140,4 +1146,5 @@ For a comprehensive roadmap and solutions, including video explanations for each
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
