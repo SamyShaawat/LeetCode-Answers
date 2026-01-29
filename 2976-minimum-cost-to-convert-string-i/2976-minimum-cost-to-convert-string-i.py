@@ -1,12 +1,38 @@
 class Solution:
-    def minimumCost(self, source: str, target: str, orig: List[str], chan: List[str], cost: List[int]) -> int:
-        def idx(c): return ord(c) - ord('a')
-        n,tochg = idx('z') +1, Counter([(s,t) for s,t in zip(source,target) if s!=t])
-        floyd   = [[0 if j==i else inf for j in range(n)] for i in range(n)]
-        for o,c,s in zip(orig,chan,cost):
-            floyd[idx(o)][idx(c)] = min(s, floyd[idx(o)][idx(c)])
-        for k,i,j in product(range(n),range(n),range(n)):
-            floyd[i][j] = min(floyd[i][j], floyd[i][k] + floyd[k][j])
-        ans = sum(floyd[idx(s)][idx(t)]*tochg[(s,t)] for (s,t) in tochg.keys())
-        return  ans  if  ans < 1e12  else -1
+    def minimumCost(self, source: str, target: str, original: List[str], changed: List[str], cost: List[int]) -> int:
+        INF = float('inf')
+        dist = [[INF] * 26 for _ in range(26)]
         
+        # Initialize distance matrix
+        for i in range(26):
+            dist[i][i] = 0
+        
+        # Add given edges
+        for o, c, w in zip(original, changed, cost):
+            u, v = ord(o) - ord('a'), ord(c) - ord('a')
+            dist[u][v] = min(dist[u][v], w)
+        
+        # Floyd-Warshall algorithm
+        for k in range(26):
+            for i in range(26):
+                if dist[i][k] == INF:
+                    continue
+                for j in range(26):
+                    if dist[k][j] == INF:
+                        continue
+                    if dist[i][j] > dist[i][k] + dist[k][j]:
+                        dist[i][j] = dist[i][k] + dist[k][j]
+        
+        # Calculate total cost
+        total_cost = 0
+        for s_char, t_char in zip(source, target):
+            if s_char == t_char:
+                continue
+            
+            u, v = ord(s_char) - ord('a'), ord(t_char) - ord('a')
+            if dist[u][v] == INF:
+                return -1
+            
+            total_cost += dist[u][v]
+        
+        return total_cost
