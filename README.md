@@ -650,6 +650,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [1018-largest-perimeter-triangle](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1382-balance-a-binary-search-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -1015,6 +1016,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1382-balance-a-binary-search-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -1044,6 +1046,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1382-balance-a-binary-search-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1382-balance-a-binary-search-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2092-find-all-people-with-secret) |
@@ -1087,6 +1090,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0004-median-of-two-sorted-arrays) |
+| [1382-balance-a-binary-search-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1382-balance-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -1168,6 +1172,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1382-balance-a-binary-search-tree) |
 ## Line Sweep
 |  |
 | ------- |
@@ -1182,4 +1187,8 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
