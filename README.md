@@ -175,6 +175,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0120-triangle](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0120-triangle) |
 | [0474-ones-and-zeroes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0799-champagne-tower](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0799-champagne-tower) |
 | [0806-domino-and-tromino-tiling](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0806-domino-and-tromino-tiling) |
 | [0808-number-of-matching-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0808-number-of-matching-subsequences) |
 | [0826-soup-servings](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0826-soup-servings) |
