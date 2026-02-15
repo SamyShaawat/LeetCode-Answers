@@ -19,6 +19,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0326-power-of-three) |
@@ -95,6 +96,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | ------- |
 | [0038-count-and-say](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0205-isomorphic-strings) |
@@ -850,6 +852,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0067-add-binary) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0342-power-of-four) |
@@ -930,6 +933,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2048-build-array-from-permutation) |
