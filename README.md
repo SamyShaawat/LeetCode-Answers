@@ -105,6 +105,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0535-encode-and-decode-tinyurl](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0535-encode-and-decode-tinyurl) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0761-special-binary-string) |
 | [0778-reorganize-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0808-number-of-matching-subsequences) |
 | [0868-push-dominoes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0868-push-dominoes) |
@@ -601,6 +602,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0594-longest-harmonious-subsequence](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0761-special-binary-string) |
 | [0778-reorganize-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0808-number-of-matching-subsequences) |
 | [0900-reordered-power-of-2](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0900-reordered-power-of-2) |
@@ -1112,6 +1114,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3721-longest-balanced-subarray-ii) |
