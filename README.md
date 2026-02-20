@@ -103,6 +103,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0383-ransom-note](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0383-ransom-note) |
 | [0474-ones-and-zeroes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0474-ones-and-zeroes) |
 | [0535-encode-and-decode-tinyurl](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0535-encode-and-decode-tinyurl) |
+| [0696-count-binary-substrings](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0761-special-binary-string) |
@@ -551,6 +552,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0088-merge-sorted-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0696-count-binary-substrings) |
 | [0868-push-dominoes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1877-minimize-maximum-pair-sum-in-array) |
