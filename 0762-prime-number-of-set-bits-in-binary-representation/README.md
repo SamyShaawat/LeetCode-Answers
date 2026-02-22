@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation">762. Prime Number of Set Bits in Binary Representation</a></h2><h3>Easy</h3><hr><p>Given two integers <code>left</code> and <code>right</code>, return <em>the <strong>count</strong> of numbers in the <strong>inclusive</strong> range </em><code>[left, right]</code><em> having a <strong>prime number of set bits</strong> in their binary representation</em>.</p>
+<h2><a href="https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation">767. Prime Number of Set Bits in Binary Representation</a></h2><h3>Easy</h3><hr><p>Given two integers <code>left</code> and <code>right</code>, return <em>the <strong>count</strong> of numbers in the <strong>inclusive</strong> range </em><code>[left, right]</code><em> having a <strong>prime number of set bits</strong> in their binary representation</em>.</p>
 
 <p>Recall that the <strong>number of set bits</strong> an integer has is the number of <code>1</code>&#39;s present when written in binary.</p>
 
