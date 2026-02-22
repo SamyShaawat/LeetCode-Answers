@@ -864,6 +864,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0401-binary-watch](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0756-pyramid-transition-matrix) |
+| [0868-binary-gap](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1632-number-of-good-ways-to-split-a-string) |
