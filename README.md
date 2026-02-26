@@ -121,6 +121,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -872,6 +873,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0868-binary-gap](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -949,6 +951,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | ------- |
 | [0067-add-binary](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0498-diagonal-traverse) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2137-final-value-of-variable-after-performing-operations) |
