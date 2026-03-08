@@ -1,10 +1,17 @@
 class Solution:
     def findDifferentBinaryString(self, nums: List[str]) -> str:
-        res = []
-        for i in range(len(nums)):
-            if nums[i][i] == "1":
-                res.append('0')
-            else:
-                res.append('1')
-        return "".join(res)
-        
+        n = len(nums)
+        size = 2 ** n
+
+        nu = [0] * size
+
+        for num in nums:
+            val = int(num, 2)
+            nu[val] += 1
+
+        for i in range(size):
+            if nu[i] == 0:
+                ans = bin(i)[2:]
+                return "0" * (n - len(ans)) + ans
+
+        return "0" * n
