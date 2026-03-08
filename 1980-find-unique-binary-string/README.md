@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-unique-binary-string/?envType=daily-question&envId=2025-02-20">1980. Find Unique Binary String</a></h2><h3>Medium</h3><hr><p>Given an array of strings <code>nums</code> containing <code>n</code> <strong>unique</strong> binary strings each of length <code>n</code>, return <em>a binary string of length </em><code>n</code><em> that <strong>does not appear</strong> in </em><code>nums</code><em>. If there are multiple answers, you may return <strong>any</strong> of them</em>.</p>
+<h2><a href="https://leetcode.com/problems/find-unique-binary-string">2107. Find Unique Binary String</a></h2><h3>Medium</h3><hr><p>Given an array of strings <code>nums</code> containing <code>n</code> <strong>unique</strong> binary strings each of length <code>n</code>, return <em>a binary string of length </em><code>n</code><em> that <strong>does not appear</strong> in </em><code>nums</code><em>. If there are multiple answers, you may return <strong>any</strong> of them</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
