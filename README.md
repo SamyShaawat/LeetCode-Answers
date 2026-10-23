@@ -441,6 +441,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3639-zero-array-transformation-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3640-trionic-array-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3640-trionic-array-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3647-zero-array-transformation-iii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -911,6 +912,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
