@@ -58,6 +58,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2288-count-operations-to-obtain-zero](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2409-count-days-spent-together](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2409-count-days-spent-together) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -146,6 +147,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2409-count-days-spent-together](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2409-count-days-spent-together) |
 | [2429-design-a-food-rating-system](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2429-design-a-food-rating-system) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
