@@ -291,6 +291,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1200-minimum-absolute-difference](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1254-number-of-closed-islands](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1254-number-of-closed-islands) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -1024,6 +1025,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0794-swim-in-rising-water](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0794-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0840-magic-squares-in-grid) |
 | [0945-snakes-and-ladders](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0945-snakes-and-ladders) |
+| [1254-number-of-closed-islands](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1254-number-of-closed-islands) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1110,6 +1112,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1254-number-of-closed-islands) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1382-balance-a-binary-search-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1382-balance-a-binary-search-tree) |
@@ -1132,6 +1135,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0945-snakes-and-ladders) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1254-number-of-closed-islands) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -1276,5 +1280,6 @@ For a comprehensive roadmap and solutions, including video explanations for each
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1254-number-of-closed-islands) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
