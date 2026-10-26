@@ -433,6 +433,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3623-count-number-of-trapezoids-i) |
@@ -1044,6 +1045,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3546-equal-sum-grid-partition-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -1123,6 +1125,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3863-power-grid-maintenance](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3863-power-grid-maintenance) |
@@ -1140,6 +1143,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2092-find-all-people-with-secret) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -1281,5 +1285,6 @@ For a comprehensive roadmap and solutions, including video explanations for each
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
