@@ -7,8 +7,7 @@ class Solution:
             g.append(0)
         g += [0] * n
         ans = 0
-        for i in range(n, len(g) - n):
-            s = g[i]
+        for i, s in enumerate(g):
             if s:
                 g[i] = 0
                 st = [i]
@@ -16,12 +15,30 @@ class Solution:
                 push = st.append
                 while st:
                     j = pop()
-                    for t in (j - 1, j + 1, j - n, j + n):
-                        v = g[t]
-                        if v:
-                            s += v
-                            g[t] = 0
-                            push(t)
+                    t = j - 1
+                    v = g[t]
+                    if v:
+                        s += v
+                        g[t] = 0
+                        push(t)
+                    t = j + 1
+                    v = g[t]
+                    if v:
+                        s += v
+                        g[t] = 0
+                        push(t)
+                    t = j - n
+                    v = g[t]
+                    if v:
+                        s += v
+                        g[t] = 0
+                        push(t)
+                    t = j + n
+                    v = g[t]
+                    if v:
+                        s += v
+                        g[t] = 0
+                        push(t)
                 if s % k == 0:
                     ans += 1
         return ans
