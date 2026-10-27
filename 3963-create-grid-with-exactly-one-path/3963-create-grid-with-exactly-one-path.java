@@ -1,0 +1,1 @@
+class Solution { public String[] createGrid(int m, int n) { String a = ".".repeat(n), b = "#".repeat(n - 1) + "."; String[] r = new String[m]; r[0] = a; for (int i = 1; i < m; i++) r[i] = b; return r; } }
