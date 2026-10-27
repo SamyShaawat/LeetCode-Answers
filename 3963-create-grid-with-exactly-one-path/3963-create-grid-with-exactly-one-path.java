@@ -1,1 +1,9 @@
-class Solution { public String[] createGrid(int m, int n) { String a = ".".repeat(n), b = "#".repeat(n - 1) + "."; String[] r = new String[m]; r[0] = a; for (int i = 1; i < m; i++) r[i] = b; return r; } }
+class Solution {
+    public String[] createGrid(int m, int n) {
+        String[] r = new String[m];
+        String row = "#".repeat(n - 1) + ".";
+        for (int i = 1; i < m; i++) r[i] = row;
+        r[0] = ".".repeat(n);
+        return r;
+    }
+}
