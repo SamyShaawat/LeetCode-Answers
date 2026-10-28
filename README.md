@@ -242,6 +242,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3651-minimum-cost-path-with-teleportations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Array
 |  |
 | ------- |
@@ -469,6 +470,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3863-power-grid-maintenance) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -920,6 +922,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3676-smallest-number-with-all-set-bits](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1053,6 +1056,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3797-design-spreadsheet) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
