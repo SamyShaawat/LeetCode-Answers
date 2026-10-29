@@ -180,6 +180,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3797-design-spreadsheet) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -468,6 +469,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3797-design-spreadsheet](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3863-power-grid-maintenance) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -921,6 +923,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Heap (Priority Queue)
@@ -1096,6 +1099,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1132,6 +1136,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-power-grid-maintenance](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -1174,6 +1179,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [1382-balance-a-binary-search-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3721-longest-balanced-subarray-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -1203,6 +1209,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3791-fruits-into-baskets-iii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1291,4 +1298,8 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [1254-number-of-closed-islands](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
