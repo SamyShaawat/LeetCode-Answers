@@ -1,84 +1,81 @@
 class Solution:
-    def palindromePath(self, n: int, edges: List[List[int]], s: str, queries: List[str]) -> List[bool]:
+    def palindromePath(self, n: int, edges: list[list[int]], s: str, queries: list[str]) -> list[bool]:
         adj = [[] for _ in range(n)]
-        for a, b in edges:
-            adj[a].append(b)
-            adj[b].append(a)
-        val = [1 << (ord(c) - 97) for c in s]
+        for u, v in edges:
+            adj[u].append(v)
+            adj[v].append(u)
+        cur = [1 << (ord(c) - 97) for c in s]
         par = [-1] * n
+        pre = [0] * n
         dep = [0] * n
-        pre = val[:]
-        order = [0]
-        for v in order:
-            p = par[v]
-            for w in adj[v]:
-                if w != p:
-                    par[w] = v
-                    dep[w] = dep[v] + 1
-                    pre[w] ^= pre[v]
-                    order.append(w)
-        size = [1] * n
-        heavy = [-1] * n
-        best = [0] * n
-        for v in reversed(order):
-            p = par[v]
-            if p >= 0:
-                size[p] += size[v]
-                if size[v] > best[p]:
-                    best[p] = size[v]
-                    heavy[p] = v
-        head = [0] * n
         tin = [0] * n
+        pre[0] = cur[0]
+        order = []
         stack = [0]
-        cnt = 0
         while stack:
-            v = stack.pop()
-            tin[v] = cnt
-            cnt += 1
-            h = heavy[v]
-            p = par[v]
-            for w in adj[v]:
-                if w != p and w != h:
-                    head[w] = w
+            u = stack.pop()
+            tin[u] = len(order)
+            order.append(u)
+            pu = pre[u]
+            du = dep[u] + 1
+            for w in adj[u]:
+                if w != par[u]:
+                    par[w] = u
+                    dep[w] = du
+                    pre[w] = pu ^ cur[w]
                     stack.append(w)
-            if h >= 0:
-                head[h] = head[v]
-                stack.append(h)
+        sz = [1] * n
+        for i in range(n - 1, 0, -1):
+            u = order[i]
+            sz[par[u]] += sz[u]
+        sp = [[(dep[u] << 16) | par[u] for u in order]]
+        j = 1
+        while 2 * j <= n:
+            p = sp[-1]
+            sp.append(list(map(min, p, p[j:])))
+            j *= 2
         bit = [0] * (n + 2)
-        res = []
+        ans = []
         for q in queries:
             t, a, b = q.split()
             u = int(a)
             if t == "update":
-                d = val[u] ^ (1 << (ord(b) - 97))
+                c = 1 << (ord(b) - 97)
+                d = cur[u] ^ c
                 if d:
-                    val[u] ^= d
+                    cur[u] = c
                     i = tin[u] + 1
                     while i <= n:
                         bit[i] ^= d
                         i += i & -i
-                    i = tin[u] + size[u] + 1
+                    i = tin[u] + sz[u] + 1
                     while i <= n:
                         bit[i] ^= d
                         i += i & -i
             else:
                 v = int(b)
-                x = u
-                y = v
-                while head[x] != head[y]:
-                    if dep[head[x]] > dep[head[y]]:
-                        x = par[head[x]]
-                    else:
-                        y = par[head[y]]
-                l = x if dep[x] < dep[y] else y
-                m = pre[u] ^ pre[v] ^ val[l]
+                x = pre[u] ^ pre[v]
                 i = tin[u] + 1
                 while i:
-                    m ^= bit[i]
+                    x ^= bit[i]
                     i &= i - 1
                 i = tin[v] + 1
                 while i:
-                    m ^= bit[i]
+                    x ^= bit[i]
                     i &= i - 1
-                res.append(m & (m - 1) == 0)
-        return res
+                lo = tin[u]
+                hi = tin[v]
+                if lo > hi:
+                    lo, hi = hi, lo
+                if lo == hi:
+                    l = u
+                else:
+                    lo += 1
+                    k = (hi - lo + 1).bit_length() - 1
+                    r = sp[k]
+                    y = r[lo]
+                    z = r[hi - (1 << k) + 1]
+                    l = (y if y < z else z) & 65535
+                x ^= cur[l]
+                ans.append(x & (x - 1) == 0)
+        return ans
