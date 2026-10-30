@@ -6,7 +6,7 @@ class Solution:
         K = k + 1
         adj = [[] for _ in range(n)]
         for u, v, w in edges:
-            adj[u].append((v * K, w, labels[u] == labels[v]))
+            adj[u].append((v, w, labels[u] == labels[v]))
         last = n - 1
         dist = [1 << 60] * (n * K)
         dist[1] = 0
@@ -29,13 +29,16 @@ class Solution:
                 return d
             minc[u] = c
             c1 = c + 1
-            for vk, w, same in adj[u]:
+            for v, w, same in adj[u]:
                 if same:
-                    if c1 > k:
+                    if c1 >= minc[v]:
                         continue
-                    t = vk + c1
+                    nc = c1
                 else:
-                    t = vk + 1
+                    if minc[v] == 1:
+                        continue
+                    nc = 1
+                t = v * K + nc
                 nd = d + w
                 if nd < dist[t]:
                     dist[t] = nd
