@@ -242,6 +242,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3640-trionic-array-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3665-twisted-mirror-path-count](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3665-twisted-mirror-path-count) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -453,6 +454,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3665-twisted-mirror-path-count](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3665-twisted-mirror-path-count) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3719-longest-balanced-subarray-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3721-longest-balanced-subarray-ii) |
@@ -1058,6 +1060,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3665-twisted-mirror-path-count](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3665-twisted-mirror-path-count) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3797-design-spreadsheet) |
