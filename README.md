@@ -24,6 +24,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0231-power-of-two](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0342-power-of-four) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0679-24-game](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0797-rabbits-in-forest) |
@@ -267,6 +268,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0219-contains-duplicate-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0219-contains-duplicate-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0417-pacific-atlantic-water-flow) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0474-ones-and-zeroes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0594-longest-harmonious-subsequence) |
