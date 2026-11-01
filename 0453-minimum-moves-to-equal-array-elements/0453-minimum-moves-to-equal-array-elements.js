@@ -1,0 +1,1 @@
+var minMoves = function(nums) { let s = 0, m = nums[0]; for (const x of nums) { s += x; if (x < m) m = x; } return s - nums.length * m; };
