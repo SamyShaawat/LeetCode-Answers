@@ -1,0 +1,1 @@
+class Solution { public int minMoves(int[] nums) { long s = 0; int m = nums[0]; for (int x : nums) { s += x; if (x < m) m = x; } return (int)(s - (long) nums.length * m); } }
