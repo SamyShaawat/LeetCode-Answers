@@ -25,6 +25,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0326-power-of-three](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0679-24-game](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0797-rabbits-in-forest) |
@@ -269,6 +270,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0407-trapping-rain-water-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0417-pacific-atlantic-water-flow) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0594-longest-harmonious-subsequence) |
@@ -632,6 +634,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0049-group-anagrams](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0088-merge-sorted-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0759-set-intersection-size-at-least-two) |
