@@ -1,53 +1,50 @@
 class Solution {
     public long minOperations(int[] nums, int x, int k) {
-        int n = nums.length;
-        final int O = 1000000, SH = 17;
-        final long M = (1L << SH) - 1;
-        PriorityQueue<Long> lo = new PriorityQueue<>(Collections.reverseOrder());
-        PriorityQueue<Long> hi = new PriorityQueue<>();
-        boolean[] side = new boolean[n];
-        long ls = 0, hs = 0;
-        int lc = 0, hc = 0;
-        long[] c = new long[n];
-        for (int i = 0; i < n; i++) {
-            int v = nums[i];
-            long key = ((long) (v + O) << SH) | i;
-            if (!lo.isEmpty() && key < lo.peek()) { lo.add(key); ls += v; lc++; side[i] = true; }
-            else { hi.add(key); hs += v; hc++; }
-            long lim = i - x;
-            if (i >= x) {
-                int u = nums[(int) lim];
-                if (side[(int) lim]) { lc--; ls -= u; }
-                else { hc--; hs -= u; }
-                while (!lo.isEmpty() && (lo.peek() & M) <= lim) lo.poll();
-                while (!hi.isEmpty() && (hi.peek() & M) <= lim) hi.poll();
+        int n = nums.length, m = n - x + 1;
+        long[] keys = new long[n];
+        for (int i = 0; i < n; i++) keys[i] = ((long) (nums[i] + 1000000) << 20) | i;
+        Arrays.sort(keys);
+        int[] rk = new int[n], sv = new int[n];
+        for (int r = 0; r < n; r++) {
+            int i = (int) (keys[r] & 1048575);
+            rk[i] = r + 1;
+            sv[r] = nums[i];
+        }
+        int[] cnt = new int[n + 1];
+        long[] sm = new long[n + 1];
+        int top = Integer.highestOneBit(n);
+        long tot = 0;
+        for (int i = 0; i < x; i++) {
+            for (int p = rk[i]; p <= n; p += p & -p) { cnt[p]++; sm[p] += nums[i]; }
+            tot += nums[i];
+        }
+        int h = (x + 1) / 2;
+        long[] cost = new long[m];
+        for (int i = 0; i < m; i++) {
+            int pos = 0, rem = h;
+            long acc = 0;
+            for (int pw = top; pw > 0; pw >>= 1) {
+                int q = pos + pw;
+                if (q <= n && cnt[q] < rem) { pos = q; rem -= cnt[q]; acc += sm[q]; }
             }
-            while (lc > hc + 1) {
-                long t = lo.poll(); lc--;
-                long tv = (t >> SH) - O;
-                ls -= tv; hi.add(t); hc++; hs += tv; side[(int) (t & M)] = false;
-                while (!lo.isEmpty() && (lo.peek() & M) <= lim) lo.poll();
-            }
-            while (lc < hc) {
-                long t = hi.poll(); hc--;
-                long tv = (t >> SH) - O;
-                hs -= tv; lo.add(t); lc++; ls += tv; side[(int) (t & M)] = true;
-                while (!hi.isEmpty() && (hi.peek() & M) <= lim) hi.poll();
-            }
-            if (i >= x - 1) {
-                long m = (lo.peek() >> SH) - O;
-                c[i - x + 1] = m * lc - ls + hs - m * hc;
+            long med = sv[pos], left = acc + med;
+            cost[i] = med * h - left + (tot - left) - med * (x - h);
+            if (i + 1 < m) {
+                int u = nums[i], v = nums[i + x];
+                for (int p = rk[i]; p <= n; p += p & -p) { cnt[p]--; sm[p] -= u; }
+                for (int p = rk[i + x]; p <= n; p += p & -p) { cnt[p]++; sm[p] += v; }
+                tot += v - u;
             }
         }
-        final long INF = Long.MAX_VALUE / 2;
-        long[] prev = new long[n + 1];
-        long[] cur = new long[n + 1];
+        long INF = Long.MAX_VALUE / 4;
+        long[] prev = new long[n + 1], cur = new long[n + 1];
         for (int j = 1; j <= k; j++) {
             Arrays.fill(cur, INF);
+            long best = INF;
             for (int i = j * x; i <= n; i++) {
-                long a = prev[i - x] + c[i - x];
-                long b = cur[i - 1];
-                cur[i] = a < b ? a : b;
+                long c = prev[i - x] + cost[i - x];
+                if (c < best) best = c;
+                cur[i] = best;
             }
             long[] t = prev; prev = cur; cur = t;
         }
