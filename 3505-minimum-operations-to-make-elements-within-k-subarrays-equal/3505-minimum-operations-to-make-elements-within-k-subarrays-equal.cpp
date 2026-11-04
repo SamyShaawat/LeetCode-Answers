@@ -1,54 +1,48 @@
 class Solution {
 public:
     long long minOperations(vector<int>& nums, int x, int k) {
-        int n = nums.size();
-        const int O = 1000000, SH = 17;
-        const long long M = (1LL << SH) - 1;
-        priority_queue<long long> lo;
-        priority_queue<long long, vector<long long>, greater<long long>> hi;
-        vector<char> side(n, 0);
-        long long ls = 0, hs = 0;
-        int lc = 0, hc = 0;
-        vector<long long> c;
-        c.reserve(n);
-        for (int i = 0; i < n; i++) {
-            int v = nums[i];
-            long long key = ((long long)(v + O) << SH) | i;
-            if (!lo.empty() && key < lo.top()) { lo.push(key); ls += v; lc++; side[i] = 1; }
-            else { hi.push(key); hs += v; hc++; }
-            long long lim = i - x;
-            if (i >= x) {
-                int u = nums[lim];
-                if (side[lim]) { lc--; ls -= u; }
-                else { hc--; hs -= u; }
-                while (!lo.empty() && (lo.top() & M) <= lim) lo.pop();
-                while (!hi.empty() && (hi.top() & M) <= lim) hi.pop();
+        int n = nums.size(), m = n - x + 1;
+        vector<int> id(n);
+        iota(id.begin(), id.end(), 0);
+        sort(id.begin(), id.end(), [&](int a, int b) {
+            return nums[a] < nums[b] || (nums[a] == nums[b] && a < b);
+        });
+        vector<int> rk(n), sv(n);
+        for (int r = 0; r < n; r++) { rk[id[r]] = r + 1; sv[r] = nums[id[r]]; }
+        vector<int> cnt(n + 1, 0);
+        vector<long long> sm(n + 1, 0);
+        int top = 1;
+        while (top * 2 <= n) top *= 2;
+        auto upd = [&](int p, int c, long long v) {
+            for (; p <= n; p += p & -p) { cnt[p] += c; sm[p] += v; }
+        };
+        long long tot = 0;
+        for (int i = 0; i < x; i++) { upd(rk[i], 1, nums[i]); tot += nums[i]; }
+        int h = (x + 1) / 2;
+        vector<long long> cost(m);
+        for (int i = 0; i < m; i++) {
+            int pos = 0, rem = h;
+            long long acc = 0;
+            for (int pw = top; pw; pw >>= 1) {
+                int q = pos + pw;
+                if (q <= n && cnt[q] < rem) { pos = q; rem -= cnt[q]; acc += sm[q]; }
             }
-            while (lc > hc + 1) {
-                long long t = lo.top(); lo.pop(); lc--;
-                long long tv = (t >> SH) - O;
-                ls -= tv; hi.push(t); hc++; hs += tv; side[t & M] = 0;
-                while (!lo.empty() && (lo.top() & M) <= lim) lo.pop();
-            }
-            while (lc < hc) {
-                long long t = hi.top(); hi.pop(); hc--;
-                long long tv = (t >> SH) - O;
-                hs -= tv; lo.push(t); lc++; ls += tv; side[t & M] = 1;
-                while (!hi.empty() && (hi.top() & M) <= lim) hi.pop();
-            }
-            if (i >= x - 1) {
-                long long m = (lo.top() >> SH) - O;
-                c.push_back(m * lc - ls + hs - m * hc);
+            long long med = sv[pos], left = acc + med;
+            cost[i] = med * h - left + (tot - left) - med * (x - h);
+            if (i + 1 < m) {
+                upd(rk[i], -1, -nums[i]);
+                upd(rk[i + x], 1, nums[i + x]);
+                tot += nums[i + x] - nums[i];
             }
         }
-        const long long INF = (long long)4e18;
+        const long long INF = LLONG_MAX / 4;
         vector<long long> prev(n + 1, 0), cur(n + 1);
         for (int j = 1; j <= k; j++) {
             fill(cur.begin(), cur.end(), INF);
+            long long best = INF;
             for (int i = j * x; i <= n; i++) {
-                long long a = prev[i - x] + c[i - x];
-                long long b = cur[i - 1];
-                cur[i] = a < b ? a : b;
+                best = min(best, prev[i - x] + cost[i - x]);
+                cur[i] = best;
             }
             swap(prev, cur);
         }
