@@ -1,4 +1,5 @@
 from heapq import heappush, heappop
+import numpy as np
 
 class Solution:
     def minOperations(self, nums: List[int], x: int, k: int) -> int:
@@ -8,6 +9,7 @@ class Solution:
         dl = {}
         ls = hs = lc = hc = 0
         c = []
+        ap = c.append
         for i in range(n):
             v = nums[i]
             if lo and v <= -lo[0]:
@@ -37,14 +39,13 @@ class Solution:
                     dl[hi[0]] -= 1; heappop(hi)
             if i >= x - 1:
                 m = -lo[0]
-                c.append(m * lc - ls + hs - m * hc)
+                ap(m * lc - ls + hs - m * hc)
+        c = np.array(c, dtype=np.int64)
         INF = 1 << 60
-        prev = [0] * (n + 1)
+        prev = np.zeros(n + 1, dtype=np.int64)
         for j in range(1, k + 1):
-            cur = [INF] * (n + 1)
-            for i in range(j * x, n + 1):
-                a = prev[i - x] + c[i - x]
-                b = cur[i - 1]
-                cur[i] = a if a < b else b
+            cur = np.full(n + 1, INF, dtype=np.int64)
+            s = j * x
+            cur[s:] = np.minimum.accumulate(prev[s - x:n + 1 - x] + c[s - x:n + 1 - x])
             prev = cur
-        return prev[n]
+        return int(prev[n])
