@@ -79,6 +79,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3462-vowels-game-in-a-string) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -235,6 +236,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -425,6 +427,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -552,6 +555,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3531-count-covered-buildings) |
@@ -818,6 +822,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -954,6 +959,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2429-design-a-food-rating-system](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
