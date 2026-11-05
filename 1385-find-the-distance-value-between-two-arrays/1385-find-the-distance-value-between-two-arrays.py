@@ -1,16 +1,13 @@
+from bisect import bisect_left
+
+
 class Solution:
     def findTheDistanceValue(self, arr1: List[int], arr2: List[int], d: int) -> int:
-        bad = bytearray(2001)
-        for y in set(arr2):
-            lo = y + 1000 - d
-            hi = y + 1001 + d
-            if lo < 0:
-                lo = 0
-            if hi > 2001:
-                hi = 2001
-            bad[lo:hi] = b"\x01" * (hi - lo)
+        b = sorted(arr2)
+        n = len(b)
         c = 0
         for x in arr1:
-            if not bad[x + 1000]:
+            i = bisect_left(b, x - d)
+            if i == n or b[i] > x + d:
                 c += 1
         return c
