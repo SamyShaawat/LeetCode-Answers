@@ -389,6 +389,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2691-count-vowel-strings-in-ranges](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2747-count-zero-request-servers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2747-count-zero-request-servers) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2906-construct-product-matrix](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2906-construct-product-matrix) |
@@ -547,6 +548,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2689-rearranging-fruits) |
+| [2747-count-zero-request-servers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2747-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2915-count-of-interesting-subarrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -675,6 +677,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2747-count-zero-request-servers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2747-count-zero-request-servers) |
 | [2887-sort-vowels-in-a-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2887-sort-vowels-in-a-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3074-apple-redistribution-into-boxes) |
@@ -823,6 +826,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2747-count-zero-request-servers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2747-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
