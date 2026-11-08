@@ -305,6 +305,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [1254-number-of-closed-islands](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1254-number-of-closed-islands) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1266-minimum-time-visiting-all-points) |
+| [1267-count-servers-that-communicate](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1267-count-servers-that-communicate) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -890,6 +891,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0778-reorganize-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1267-count-servers-that-communicate](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1267-count-servers-that-communicate) |
 | [1297-maximum-number-of-balloons](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1297-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1635-number-of-good-pairs) |
@@ -1058,6 +1060,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0840-magic-squares-in-grid](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0840-magic-squares-in-grid) |
 | [0945-snakes-and-ladders](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0945-snakes-and-ladders) |
 | [1254-number-of-closed-islands](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1267-count-servers-that-communicate) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1150,6 +1153,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1267-count-servers-that-communicate) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1382-balance-a-binary-search-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1382-balance-a-binary-search-tree) |
@@ -1175,6 +1179,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0945-snakes-and-ladders](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0945-snakes-and-ladders) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1267-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -1324,6 +1329,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Indexed Tree
