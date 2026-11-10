@@ -1,0 +1,1 @@
+var climbStairs=function(n,costs){let a=1e9,b=1e9,c=0,d;for(let i=0;i<n;i++){d=Math.min(c+1,b+4,a+9)+costs[i];a=b;b=c;c=d}return c};
