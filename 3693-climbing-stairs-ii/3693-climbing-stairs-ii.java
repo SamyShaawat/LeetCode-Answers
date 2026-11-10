@@ -1,0 +1,1 @@
+class Solution{public int climbStairs(int n,int[] costs){int a=1<<29,b=a,c=0,d;for(int x:costs){d=Math.min(c+1,Math.min(b+4,a+9))+x;a=b;b=c;c=d;}return c;}}
