@@ -1,0 +1,1 @@
+class Solution{public:int climbStairs(int n,vector<int>& costs){long long a=1e18,b=1e18,c=0,d;for(int x:costs){d=min({c+1,b+4,a+9})+x;a=b;b=c;c=d;}return c;}};
