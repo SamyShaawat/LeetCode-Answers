@@ -97,6 +97,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3830-find-closest-person](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String
@@ -758,6 +759,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Prefix Sum
 |  |
