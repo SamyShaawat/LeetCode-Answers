@@ -424,6 +424,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3415-check-if-grid-satisfies-conditions) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -836,6 +837,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2747-count-zero-request-servers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2747-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -854,6 +856,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2408-number-of-people-aware-of-a-secret](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3827-implement-router](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3827-implement-router) |
 ## Monotonic Queue
@@ -861,6 +864,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Linked List
 |  |
@@ -1208,6 +1212,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2211-count-collisions-on-a-road](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Divide and Conquer
@@ -1243,6 +1248,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 ## Segment Tree
 |  |
 | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3454-separate-squares-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3721-longest-balanced-subarray-ii) |
@@ -1282,6 +1288,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [0085-maximal-rectangle](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Geometry
 |  |
