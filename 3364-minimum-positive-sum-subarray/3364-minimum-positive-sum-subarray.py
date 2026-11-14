@@ -1,13 +1,16 @@
-from itertools import accumulate
-
 class Solution:
     def minimumSumSubarray(self, nums: List[int], l: int, r: int) -> int:
-        p = [0, *accumulate(nums)]
-        best = 1000000000
-        for i in range(l, len(p)):
+        n = len(nums)
+        p = [0] * (n + 1)
+        for i in range(n):
+            p[i + 1] = p[i] + nums[i]
+        best = 1 << 30
+        for i in range(l, n + 1):
             pi = p[i]
-            for q in p[max(0, i - r):i - l + 1]:
-                s = pi - q
+            for j in range(max(0, i - r), i - l + 1):
+                s = pi - p[j]
                 if 0 < s < best:
+                    if s == 1:
+                        return 1
                     best = s
-        return -1 if best == 1000000000 else best
+        return best if best != 1 << 30 else -1
