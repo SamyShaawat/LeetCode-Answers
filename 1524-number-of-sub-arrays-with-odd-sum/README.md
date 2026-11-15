@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum">1524. Number of Sub-arrays With Odd Sum</a></h2><h3>Medium</h3><hr><p>Given an array of integers <code>arr</code>, return <em>the number of subarrays with an <strong>odd</strong> sum</em>.</p>
+<h2><a href="https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum">1631. Number of Sub-arrays With Odd Sum</a></h2><h3>Medium</h3><hr><p>Given an array of integers <code>arr</code>, return <em>the number of subarrays with an <strong>odd</strong> sum</em>.</p>
 
 <p>Since the answer can be very large, return it modulo <code>10<sup>9</sup> + 7</code>.</p>
 
