@@ -1,0 +1,1 @@
+var digitSum = function(s, k) { while (s.length > k) { let t = '', n = s.length; for (let i = 0; i < n; i += k) { let x = 0; for (let j = i; j < i + k && j < n; j++) x += s.charCodeAt(j) - 48; t += x; } s = t; } return s; };
