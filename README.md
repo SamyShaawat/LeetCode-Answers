@@ -149,6 +149,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2211-count-collisions-on-a-road) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -1037,6 +1038,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2211-count-collisions-on-a-road) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2288-count-operations-to-obtain-zero) |
