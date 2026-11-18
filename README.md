@@ -161,6 +161,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2691-count-vowel-strings-in-ranges](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2887-sort-vowels-in-a-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2887-sort-vowels-in-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
