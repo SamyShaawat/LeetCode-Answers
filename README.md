@@ -392,6 +392,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2529-range-product-queries-of-powers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -691,6 +692,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2402-meeting-rooms-iii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2689-rearranging-fruits](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2747-count-zero-request-servers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2747-count-zero-request-servers) |
@@ -750,6 +752,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2689-rearranging-fruits) |
