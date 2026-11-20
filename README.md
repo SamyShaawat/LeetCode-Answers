@@ -235,6 +235,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -409,6 +410,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -698,6 +700,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2747-count-zero-request-servers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2747-count-zero-request-servers) |
 | [2887-sort-vowels-in-a-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2887-sort-vowels-in-a-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3241-divide-array-into-arrays-with-max-difference) |
