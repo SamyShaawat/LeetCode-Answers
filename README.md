@@ -168,6 +168,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3194-find-words-containing-character](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3194-find-words-containing-character) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -430,6 +431,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3321-type-of-triangle) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -571,6 +573,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2915-count-of-interesting-subarrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2915-count-of-interesting-subarrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1157,6 +1160,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -1194,6 +1198,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
