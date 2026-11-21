@@ -5,28 +5,32 @@ class Solution:
         for i in range(1, n):
             ch[parent[i]].append(i)
         idx = [ord(c) - 97 for c in s]
+        last = [-1] * 26
         np = parent[:]
-        tab = [None] * n
-        t0 = [-1] * 26
-        t0[idx[0]] = 0
-        tab[0] = t0
-        order = [0]
-        ext = order.extend
-        for u in order:
-            kids = ch[u]
-            if not kids:
-                continue
-            tu = tab[u]
-            for v in kids:
-                c = idx[v]
-                p = tu[c]
+        saved = [-1] * n
+        order = []
+        push = order.append
+        st = [0]
+        pop = st.pop
+        app = st.append
+        ext = st.extend
+        while st:
+            u = pop()
+            if u >= 0:
+                c = idx[u]
+                p = last[c]
                 if p >= 0:
-                    np[v] = p
-                if ch[v]:
-                    t = tu[:]
-                    t[c] = v
-                    tab[v] = t
-            ext(kids)
+                    np[u] = p
+                push(u)
+                kids = ch[u]
+                if kids:
+                    saved[u] = p
+                    last[c] = u
+                    app(~u)
+                    ext(kids)
+            else:
+                u = ~u
+                last[idx[u]] = saved[u]
         sz = [1] * n
         for u in reversed(order):
             p = np[u]
