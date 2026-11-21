@@ -4,30 +4,29 @@ class Solution:
         ch = [[] for _ in range(n)]
         for i in range(1, n):
             ch[parent[i]].append(i)
-        last = {}
+        idx = [ord(c) - 97 for c in s]
         np = parent[:]
-        order = []
-        push = order.append
-        st = [0]
-        pop = st.pop
-        ext = st.extend
-        app = st.append
-        saved = [-1] * n
-        while st:
-            u = pop()
-            if u >= 0:
-                c = s[u]
-                p = last.get(c, -1)
+        tab = [None] * n
+        t0 = [-1] * 26
+        t0[idx[0]] = 0
+        tab[0] = t0
+        order = [0]
+        ext = order.extend
+        for u in order:
+            kids = ch[u]
+            if not kids:
+                continue
+            tu = tab[u]
+            for v in kids:
+                c = idx[v]
+                p = tu[c]
                 if p >= 0:
-                    np[u] = p
-                saved[u] = p
-                last[c] = u
-                push(u)
-                app(~u)
-                ext(ch[u])
-            else:
-                u = ~u
-                last[s[u]] = saved[u]
+                    np[v] = p
+                if ch[v]:
+                    t = tu[:]
+                    t[c] = v
+                    tab[v] = t
+            ext(kids)
         sz = [1] * n
         for u in reversed(order):
             p = np[u]
