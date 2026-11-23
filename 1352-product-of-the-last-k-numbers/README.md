@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/product-of-the-last-k-numbers/?envType=daily-question&envId=2025-02-14">1352. Product of the Last K Numbers</a></h2><h3>Medium</h3><hr><p>Design an algorithm that accepts a stream of integers and retrieves the product of the last <code>k</code> integers of the stream.</p>
+<h2><a href="https://leetcode.com/problems/product-of-the-last-k-numbers">1477. Product of the Last K Numbers</a></h2><h3>Medium</h3><hr><p>Design an algorithm that accepts a stream of integers and retrieves the product of the last <code>k</code> integers of the stream.</p>
 
 <p>Implement the <code>ProductOfNumbers</code> class:</p>
 
