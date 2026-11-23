@@ -1,16 +1,19 @@
 class ProductOfNumbers:
-    __slots__ = ('p',)
 
     def __init__(self):
         self.p = [1]
+        self.n = 1
 
     def add(self, num: int) -> None:
-        p = self.p
         if num:
-            p.append(p[-1] * num)
+            self.p.append(self.p[-1] * num)
+            self.n += 1
         else:
             self.p = [1]
+            self.n = 1
 
     def getProduct(self, k: int) -> int:
+        if k >= self.n:
+            return 0
         p = self.p
-        return p[-1] // p[~k] if k < len(p) else 0
+        return p[-1] // p[~k]
