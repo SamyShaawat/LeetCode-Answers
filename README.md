@@ -37,6 +37,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [1015-smallest-integer-divisible-by-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1018-largest-perimeter-triangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1266-minimum-time-visiting-all-points) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -321,6 +322,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [1293-three-consecutive-odds](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1352-product-of-the-last-k-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1390-four-divisors](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1390-four-divisors) |
@@ -786,6 +788,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 |  |
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1590-make-sum-divisible-by-p) |
@@ -901,6 +904,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0535-encode-and-decode-tinyurl) |
 | [0817-design-hashmap](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/0817-design-hashmap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1352-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2169-simple-bank-system) |
@@ -1377,4 +1381,8 @@ For a comprehensive roadmap and solutions, including video explanations for each
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
