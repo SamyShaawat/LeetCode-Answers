@@ -3,12 +3,14 @@ class Solution:
         m = (0, 0, 1, 2, 1, 4, 3, 8, 1, 2, 5)  # prime bitmask of 0..10
         best = 2
         l = cur = 0
-        for r, x in enumerate(nums):
+        r = 0
+        for x in nums:
             b = m[x]
             while cur & b:
                 cur ^= m[nums[l]]
                 l += 1
             cur |= b
-            if r - l + 1 > best:
-                best = r - l + 1
+            r += 1
+            if r - l > best:
+                best = r - l
         return best
