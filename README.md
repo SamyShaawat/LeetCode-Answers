@@ -78,6 +78,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3279-alice-and-bob-playing-flower-game](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3336-water-bottles-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3462-vowels-game-in-a-string) |
@@ -439,6 +440,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3379-transformed-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -842,6 +844,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
 |  |
@@ -862,6 +865,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -1034,6 +1038,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3201-distribute-candies-among-children-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3546-equal-sum-grid-partition-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3546-equal-sum-grid-partition-i) |
