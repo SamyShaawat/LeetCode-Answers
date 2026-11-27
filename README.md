@@ -78,6 +78,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3279-alice-and-bob-playing-flower-game](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3336-water-bottles-ii) |
+| [3360-stone-removal-game](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3433-count-mentions-per-user) |
@@ -1075,6 +1076,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [2408-number-of-people-aware-of-a-secret](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/2479-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3336-water-bottles-ii) |
+| [3360-stone-removal-game](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3360-stone-removal-game) |
 | [3379-transformed-array](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
