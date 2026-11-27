@@ -265,6 +265,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Array
 |  |
 | ------- |
@@ -514,6 +515,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3863-power-grid-maintenance](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3863-power-grid-maintenance) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3934-smallest-unique-subarray](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -790,6 +792,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Prefix Sum
 |  |
 | ------- |
