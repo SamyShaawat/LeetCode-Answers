@@ -1,3 +1,5 @@
+import numpy as np
+
 class Solution:
     def maximumSaleItems(self, items: List[List[int]], budget: int) -> int:
         M = max(f for f, _ in items)
@@ -7,12 +9,12 @@ class Solution:
         cnt = [0] * (M + 1)
         for f in range(1, M + 1):
             if freq[f]:
-                cnt[f] = sum(freq[f::f]) - 1
+                cnt[f] = sum(freq[f::f])
         pmin = min(p for _, p in items)
-        dp = [0] * (budget + 1)
+        dp = np.zeros(budget + 1, dtype=np.int64)
+        mx = np.maximum
         for f, p in items:
             v = cnt[f]
-            if v and p <= budget:
-                v += 1
-                dp[p:] = map(max, dp[p:], [x + v for x in dp[:-p]])
-        return max(dp[b] + (budget - b) // pmin for b in range(budget + 1))
+            if v > p // pmin and p <= budget:
+                mx(dp[p:], dp[:-p] + v, out=dp[p:])
+        return int((dp + (budget - np.arange(budget + 1)) // pmin).max())
