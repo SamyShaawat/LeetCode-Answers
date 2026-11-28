@@ -7,10 +7,13 @@ class Solution:
         D = {v: sum(cnt[v::v]) - 1 for v in set(fs)}
         m = min(ps)
         lim = m + m
-        groups = sorted([(p, D[f]) for f, p in items if p <= lim and D[f]])
+        keys = [p << 17 | D[f] for f, p in items if p <= lim and D[f]]
+        keys.sort()
         t = 0
         R = budget
-        for c, k in groups:
+        for key in keys:
+            c = key >> 17
+            k = key & 131071
             x = R // c
             if x < k:
                 t += x
