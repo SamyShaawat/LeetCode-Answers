@@ -516,6 +516,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3934-smallest-unique-subarray](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -734,6 +735,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3647-zero-array-transformation-iii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3748-sort-matrix-by-diagonals) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -793,6 +795,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1029,6 +1032,7 @@ For a comprehensive roadmap and solutions, including video explanations for each
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3863-power-grid-maintenance) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/SamyShaawat/LeetCode-Answers/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Enumeration
 |  |
